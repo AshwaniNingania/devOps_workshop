@@ -1,4 +1,4 @@
-package com.nagarro.devOps.productservice;
+package com.nagarro.devops.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
